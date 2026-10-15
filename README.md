@@ -12,7 +12,7 @@ Ingénieur AI/Data avec 18 ans d'expérience. Je conçois des pipelines de donn�
 
 Théorie quantique d'un automate cellulaire unitaire sur l'algèbre de Clifford **Cl(10,0)** : cinématique du Modèle Standard, dynamique causale exactement unitaire, et secteur gravitationnel sur réseau. Publiée sous **DOI Zenodo**, 3 articles + un document unificateur.
 
-🔗 **[github.com/MohammedHAOUACH/CL10](https://github.com/MohammedHAOUACH/CL10)** · 📄 **[DOI: 10.5281/zenodo.23321106](https://doi.org/10.5281/zenodo.23321106)**
+🔗 **[github.com/MohammedHAOUACH/CL10](https://github.com/MohammedHAOUACH/CL10)** · 📄 **[DOI: 10.5281/zenodo.23321106](https://doi.org/10.5281/zenodo.23321106)** · 🆔 **[ORCID: 0009-0006-2907-0530](https://orcid.org/0009-0006-2907-0530)**
 
 Résultats phares (tous calculés, aucune donnée entrée à la main) : sous-algèbre de Minkowski (1+3), module de Weyl à 16 composantes = une génération du Modèle Standard avec annulation des 8 anomalies, spectre QCA à 32 niveaux, expérience de Young à un électron, absorption résonnante de l'hydrogène 1s→2p (run GPU 296³), et une recherche d'isotropie rapportée honnêtement comme échec.
 
