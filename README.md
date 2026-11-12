@@ -31,7 +31,7 @@ Résultats phares (tous calculés, aucune donnée entrée à la main) : sous-alg
 | Projet | Description |
 |---|---|
 | [CL10](https://github.com/MohammedHAOUACH/CL10) | Causal Clifford Theory — automate cellulaire quantique sur Cl(10,0), publié (DOI) |
-| [qwen38-27b-rtx3090](https://github.com/MohammedHAOUACH/qwen38-27b-rtx3090) | Qwen3.8-27B sur un seul RTX 3090 avec vLLM — ~1000 tok/s, contexte 150k+ |
+| [qwen38-27b-rtx3090](https://github.com/MohammedHAOUACH/qwen38-27b-rtx3090) | Qwen3.8-27B sur un seul RTX 3090 avec vLLM — ~100 tok/s, contexte 150k+ |
 | [sglang](https://github.com/MohammedHAOUACH/sglang) | Serveur d'inférence SGLang pour Qwen3.8-27B-INT8 sur 2× RTX 3090 |
 | [proairag](https://github.com/MohammedHAOUACH/proairag) | Plateforme RAG hybride multi-tenant (pgvector + Neo4j) |
 | [OptiVM](https://github.com/MohammedHAOUACH/OptiVM) | Optimisation énergétique de data centers par clustering de séries temporelles |
